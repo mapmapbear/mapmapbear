@@ -1,7 +1,7 @@
 ## JunHao Yin @mapmap_bear
-
-[![Github Followers](https://img.shields.io/github/followers/mapmapbear?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/mapmapbear?tab=followers) 
 👋 Hi! Welcome to my Github profile!
+[![Github Followers](https://img.shields.io/github/followers/mapmapbear?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/mapmapbear?tab=followers) 
+
 ### 🔭 I’m Study in 
 - SICNU---Computer Science and Technology
 
