@@ -1,17 +1,18 @@
-### JunHao Yin --@mapmap_bear
+## JunHao Yin --@mapmap_bear
 
 [![Github Followers](https://img.shields.io/github/followers/mapmapbear?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/mapmapbear?tab=followers)
 
-Here are some ideas to get you started:
+### 🔭 I’m Study in 
+- SICNU---Computer Science and Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### ✏️ I'm Learn on
+- Computer Graphics：计算机图形学
+- Computational Geometry：计算几何
+- Data Structure：数据结构
+- Modern C++ programming：现代C++编程
+- Operating System：操作系统
+- GPU Programming：GPU编程
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mapmapbear&count_private=true&show_icons=true" style=" />
