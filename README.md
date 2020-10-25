@@ -1,4 +1,4 @@
-## JunHao Yin --@mapmap_bear
+## JunHao Yin @mapmap_bear
 
 [![Github Followers](https://img.shields.io/github/followers/mapmapbear?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/mapmapbear?tab=followers)
 
@@ -15,10 +15,9 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mapmapbear&count_private=true&show_icons=true" style=" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mapmapbear&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapmapbear" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuk7" />
-</a>
+                                                                                                                                  
 
 
