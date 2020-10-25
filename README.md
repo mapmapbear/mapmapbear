@@ -1,6 +1,6 @@
-### Hi there 👋
+### JunHao Yin --@mapmap_bear
 
-**mapmapbear/mapmapbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Followers](https://img.shields.io/github/followers/mapmapbear?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/mapmapbear?tab=followers)
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mapmapbear&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mapmapbear&count_private=true&show_icons=true" style=" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuk7" />
