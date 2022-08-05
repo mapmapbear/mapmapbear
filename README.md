@@ -5,6 +5,8 @@
 ### 🔭 I’m Study in 
 - SICNU---Computer Science and Technology
 
+### 🔭 I’m Work in 
+- LayaBox GameEigine Dev
 ### ✏️ I'm Learn on
 - Computer Graphics：计算机图形学
 - Computational Geometry：计算几何
