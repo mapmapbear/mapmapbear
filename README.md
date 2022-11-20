@@ -8,11 +8,11 @@
 ### 🔭 I’m Work in 
 - LayaBox GameEngine Dev
 ### ✏️ I'm Focus on
-- Computer Graphics：计算机图形学
-- Computational Geometry：计算几何
-- Modern C++ programming：现代C++编程
-- Operating System：操作系统
-- GPU Programming：GPU编程
+- Computer Graphics
+- Computational Geometry
+- Modern C++ programming
+- Operating System
+- GPU Programming
 
 
 ### ✉️ I'm E-Mail is
