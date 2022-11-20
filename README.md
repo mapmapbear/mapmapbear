@@ -6,11 +6,10 @@
 - SICNU---Computer Science and Technology
 
 ### 🔭 I’m Work in 
-- LayaBox GameEigine Dev
-### ✏️ I'm Learn on
+- LayaBox GameEngine Dev
+### ✏️ I'm Focus on
 - Computer Graphics：计算机图形学
 - Computational Geometry：计算几何
-- Data Structure：数据结构
 - Modern C++ programming：现代C++编程
 - Operating System：操作系统
 - GPU Programming：GPU编程
