@@ -1,7 +1,7 @@
 ## JunHao Yin @mapmap_bear
 👋 Hi! Welcome to my Github profile!
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ### 🔭 I’m Study in 
 - SICNU---Computer Science and Technology
